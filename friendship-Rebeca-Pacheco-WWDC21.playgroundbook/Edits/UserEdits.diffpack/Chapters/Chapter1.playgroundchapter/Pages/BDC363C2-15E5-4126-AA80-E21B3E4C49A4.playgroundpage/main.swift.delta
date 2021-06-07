@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseFile</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/Template.playgroundpage/main.swift</string>
+	<key>Diffs</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>/*
+ 
+ 🔓For better experience disable the results
+ 
+ Thank you for building this friendship, it was important to overcome the work problems, the pandemic and to warm the heart of our little monster.
+ 
+ */
+
+/*
+ 
+ 🙏🏻 Acknowledgements 
+ 
+ Thank you to Yasmin for making all background music sounds. 
+ 
+ Thank you to Alessandro for the support while I was making my Playground and also for letting me tell a bit of our recent story. 
+ 
+ Thank you to Juliana for the support with the translations and design. 
+ 
+ And thank you to the mentors and friends from Apple Developer Academy that helped me with ideation and research.
+ 
+ */
+playThankYou()
+</string>
+			<key>ModifiedRange</key>
+			<string>{0, 644}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{0, 0}</string>
+		</dict>
+	</array>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
